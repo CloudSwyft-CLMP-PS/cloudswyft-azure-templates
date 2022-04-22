@@ -136,10 +136,7 @@
         },
         "WEBSITE_TIME_ZONE": {
             "type": "string",
-            "defaultValue": "Singapore Standard Time",
-            "allowedValues": [
-                "Singapore Standard Time"
-            ]
+            "defaultValue": "Singapore Standard Time"
         },
         "TenantId": {
             "type": "string",

@@ -212,10 +212,6 @@
                             "value": "[parameters('DAILY_REPORT_CRON_TIME')]"
                         },
                         {
-                            "name": "DiagnosticServices_EXTENSION_VERSION",
-                            "value": "~3"
-                        },
-                        {
                             "name": "FROM",
                             "value": "[parameters('FROM')]"
                         },

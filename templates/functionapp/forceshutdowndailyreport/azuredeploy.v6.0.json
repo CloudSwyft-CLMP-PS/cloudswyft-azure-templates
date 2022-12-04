@@ -256,10 +256,6 @@
                             "value": "[parameters('TO')]"
                         },
                         {
-                            "name": "WEBSITE_RUN_FROM_PACKAGE",
-                            "value": "1"
-                        },
-                        {
                             "name": "WEBSITE_TIME_ZONE",
                             "value": "[parameters('WEBSITE_TIME_ZONE')]"
                         }
